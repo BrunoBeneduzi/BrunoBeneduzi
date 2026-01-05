@@ -1,16 +1,65 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Desenvolvedor de Software
 
-<!--
-**BrunoBeneduzi/BrunoBeneduzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Java** com experiência em aplicações backend e frontend, focado em APIs REST, arquitetura limpa e boas práticas de desenvolvimento.  
+🚀 Atuação com Java, JavaScript, containers, bancos de dados relacionais e testes automatizados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias & Ferramentas
+
+### ☕ Backend (Java)
+- Java
+- Spring Boot
+- REST API
+- JUnit
+- Mockito (Mock)
+- MySQL
+- PostgreSQL
+- Docker
+
+### 🌐 Frontend & JavaScript
+- JavaScript
+- Node.js
+- AngularJS
+- React
+
+### 🛠️ DevOps & Versionamento
+- Git
+- GitHub
+- Docker
+
+---
+
+## 📂 Projetos
+
+### ☕ Projetos em Java / Spring Boot
+> Aplicações backend, APIs REST e microsserviços
+
+- 🔗 **API Site remedios**  
+  https://github.com/BrunoBeneduzi/RemedioSites
+
+- 🔗 **Quadro de tarefas**  
+   https://github.com/BrunoBeneduzi/QuadroDeTarefasAPI
+
+- 🔗 **API Cinema, informações**  
+  https://github.com/BrunoBeneduzi/Cinema
+
+---
+
+### 🌐 Projetos em JavaScript / Node / Angular / React
+> Aplicações frontend e APIs em JavaScript
+
+- 🔗 **Site para a empresa hometec (em desenvolvimento)**  
+  https://hometec.vercel.app/
+
+
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/bruno-beneduzi/
+- 📧 Email: bruno.beneduzi@hotmail.com
+
+---
+
+⭐ Fique à vontade para explorar meus projetos e entrar em contato!
