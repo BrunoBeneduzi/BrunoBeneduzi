@@ -16,6 +16,8 @@
 - MySQL
 - PostgreSQL
 - Docker
+- Microsserviços
+- Solid
 
 ### 🌐 Frontend & JavaScript
 - JavaScript
