@@ -20,9 +20,8 @@
 - Solid
 
 ### 🌐 Frontend & JavaScript
-- JavaScript
+- TypeScript
 - Node.js
-- AngularJS
 - React
 
 ### 🛠️ DevOps & Versionamento
